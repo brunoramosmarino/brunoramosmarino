@@ -1,66 +1,78 @@
 # 👋 Hi, I'm Bruno
 
-## 💻 About Me
-Backend-oriented developer with strong experience in building, maintaining, and scaling real-world business systems.  
-I focus on clean architecture, data consistency, and performance.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,postgres,redis,rabbitmq,aws,linux,git" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 💼 About Me
+Backend Developer with +4 years of experience building and maintaining business-critical systems.
 
-### 🧠 Backend
+I specialize in:
+- Designing robust backend architectures  
+- Working with complex relational data  
+- Maintaining and improving legacy systems  
+- Translating business requirements into scalable solutions  
+
+I care about performance, clean code, and systems that *actually work in production*.
+
+---
+
+## 🚀 What I Bring
+- Strong experience with **PHP & Laravel** in real-world applications  
+- Advanced **SQL & PostgreSQL** (optimization, modeling, complex queries)  
+- Experience building and consuming **REST APIs**  
+- Background handling **high-complexity business logic**  
+- Solid debugging skills in large/legacy codebases  
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi" />
 </p>
 
-### 🗄️ Databases & Caching
+### Data & Messaging
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>
-
-### 🔌 APIs & Messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="48"/>
 </p>
 
-### ☁️ DevOps & Infrastructure
+### Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux" />
 </p>
 
-### ⚙️ Tools & Workflow
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
 
-## 🧩 What I Work On
-- Business management systems  
-- Attendance & scheduling systems (multi-day shifts, validations)  
-- Backend APIs and integrations  
-- Database design and optimization  
+## 🧩 Experience Highlights
+- Built and maintained business management systems  
+- Developed attendance & scheduling systems with complex shift logic  
+- Optimized slow queries and improved database performance  
+- Integrated multiple external services and APIs  
 
 ---
 
-## 🛠️ Strengths
-- Debugging complex and legacy systems  
-- Strong SQL & data modeling mindset  
-- Clean, maintainable backend architecture  
-- Translating business rules into solid implementations  
+## 🔧 Currently Exploring
+- Distributed systems patterns  
+- System design at scale  
+- Performance tuning & observability  
 
 ---
 
-## 🎯 Interests
-- System design  
-- Performance optimization  
-- Scalable architectures & distributed systems  
-
----
-
-## 🎲 Fun Fact
-I’m really into board games—especially heavy euro games.
+## 🎯 What I'm Looking For
+Opportunities where I can:
+- Work on challenging backend systems  
+- Improve architecture and performance  
+- Contribute to meaningful, real-world products  
 
 ---
 
